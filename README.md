@@ -1,4 +1,4 @@
-# Meu-Portfolio-de-Projetos-de-Data-Science
+# Portfolio-de-Projetos-de-Data-Science
 
 <p align="center">
   <img src="banner%20Daniel%20Kersting.png" >
