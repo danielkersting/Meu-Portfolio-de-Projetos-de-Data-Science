@@ -6,7 +6,7 @@
 
 
 # Daniel Kersting
-<sub>*Pesquisador / Gestor / Consultor* </sub>
+<sub>*Manager | Researcher | Mentor | Stoicism Practitioner* </sub>
 
 
 EM ALTERAÇÃO.....
