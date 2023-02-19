@@ -1,8 +1,10 @@
 # Portfolio-de-Projetos-de-Data-Science
 
 <p align="center">
-  <img src="banner19FEV2023_editado.png>
+  <img src="https://github.com/danielkersting/Portfolio-de-Projetos-de-Data-Science/blob/6e9e8f249185e7cb5256eea1adfc6566b37843da/banner19FEV2023_editado.png
+>
 </p>
+
 
 # Daniel Kersting
 <sub>*Pesquisador / Gestor / Consultor* </sub>
