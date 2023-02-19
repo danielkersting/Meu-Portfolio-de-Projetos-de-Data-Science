@@ -1,7 +1,7 @@
 # Portfolio-de-Projetos-de-Data-Science
 
 <p align="center">
-  <img src="banner19FEV2023_editado.png >
+  <img src="banner19FEV2023_editado.png>
 </p>
 
 # Daniel Kersting
