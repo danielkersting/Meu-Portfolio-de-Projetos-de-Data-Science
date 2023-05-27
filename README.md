@@ -1,7 +1,7 @@
 # Portfolio de Projetos - Ciência de Dados
 
 <p align="center">
-  <img src="banner19FEV2023_editado.png">
+  <img src="um-close-up_editado.jpg">
 </p>
 
 
