@@ -1,4 +1,4 @@
-# Portfolio-de-Projetos-de-Data-Science
+# Portfolio de Projetos - Ciência de Dados
 
 <p align="center">
   <img src="banner19FEV2023_editado.png">
@@ -6,29 +6,23 @@
 
 
 # Daniel Kersting
-<sub>*Manager | Researcher | Mentor | Stoicism Practitioner* </sub>
+<sub>*Project Manager | D.Sc. Eng. Researcher | Mentor* </sub>
 
 
-EM ALTERAÇÃO.....
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
-
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+A partir das atividades profissionais na área de Ciência dos Materiais junto a Universidade Federal do Rio Grande do Sul (UFRGS), complementados depois com mais estudos e pesquisa junto a Universidade de São Paulo (USP), adquiri credenciais para Gestão de Projetos de P/D, junto ao Centro Tecnológico da Marinha em São Paulo (CTMSP), evoluindo posteriormente para Gestão de Projetos de Implantação Industriais junto ao Centro Industrial Nuclear de Aramar (CINA). Como continuidade deste desenvolvimento profissional, apresento minhas novas credenciais, em desenvolvimento, dentro da área de Ciência de Dados.
 
 
+**Experiência em:** Python, SQL, Machine Learning, DJANGO.
 
-EM ALTERAÇÃO.......
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
-
-EM ALTERAÇÃO.......
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [Blog](em implantação)
+* [LinkedIn]([(https://www.linkedin.com/in/daniel-kersting-b0895516/])
 * [Medium](https://www.medium.com)
 
 
 ## Projetos:
 
-EXEMPLOS EM ALTERAÇÃO....
+EM ALTERAÇÃO....
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
