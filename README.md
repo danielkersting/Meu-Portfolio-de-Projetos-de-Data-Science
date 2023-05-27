@@ -12,9 +12,11 @@
 A partir das atividades profissionais na área de Ciência dos Materiais junto a Universidade Federal do Rio Grande do Sul (UFRGS), complementados depois com mais estudos e pesquisa junto a Universidade de São Paulo (USP), adquiri credenciais para Gestão de Projetos de P/D, junto ao Centro Tecnológico da Marinha em São Paulo (CTMSP), evoluindo posteriormente para Gestão de Projetos de Implantação Industriais junto ao Centro Industrial Nuclear de Aramar (CINA). Como continuidade deste desenvolvimento profissional, apresento minhas novas credenciais, em desenvolvimento, dentro da área de Ciência de Dados.
 
 EM EXECUÇÃO
+
 **Experiência em:** Python, SQL, Machine Learning, DJANGO.
 
 EM EXECUÇÃO
+
 **Links:**
 * [Blog](https://danielkersting-datascience.blogspot.com/)
 * [LinkedIn](https://www.linkedin.com/in/daniel-kersting-b0895516/)
@@ -24,6 +26,7 @@ EM EXECUÇÃO
 ## Projetos:
 
 EM ALTERAÇÃO....
+
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 
 
