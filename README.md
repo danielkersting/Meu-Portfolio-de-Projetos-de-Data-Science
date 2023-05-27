@@ -16,7 +16,7 @@ A partir das atividades profissionais na área de Ciência dos Materiais junto a
 
 **Links:**
 * [Blog](em implantação)
-* [LinkedIn]([(https://www.linkedin.com/in/daniel-kersting-b0895516/])
+* [LinkedIn](https://www.linkedin.com/in/daniel-kersting-b0895516/)
 * [Medium](https://www.medium.com)
 
 
