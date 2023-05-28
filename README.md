@@ -25,7 +25,7 @@ EM EXECUÇÃO
 
 ## Projetos:
 
-* **Hong Kong - Data Science com Air BnB: ** https://urlfr.ee/bcv1d
+* **Hong Kong - Data Science com Air BnB: **   https://urlfr.ee/bcv1d
 
 
 EM ALTERAÇÃO....
