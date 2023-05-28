@@ -25,6 +25,9 @@ EM EXECUÇÃO
 
 ## Projetos:
 
+* **Hong Kong - Data Science com Air BnB: ** https://urlfr.ee/bcv1d
+
+
 EM ALTERAÇÃO....
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
